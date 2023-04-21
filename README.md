@@ -35,5 +35,5 @@
   30  |  9-Jun   | Final Version      |            | background, anyfed, anygility, tuner, full review, title, cover design              
   15  | 28-Jul   | Reviews-in         |            | Reviews                                                                             
   15  | 18-Aug   | Thesis-to-print    |            | Thesis to print, read PhD regulations for PhD propositions.                         
-  10  |  7-Sep   | Defense            |            | Prepare presentation
+  10  | 29-Sep   | Defense            |            | Prepare presentation
 
