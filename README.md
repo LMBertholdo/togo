@@ -7,7 +7,7 @@
  Days| Forecast | Title         | Situation  | Status & ToDo                                                                             
  ----| ---------| --------------| ---------- |----------------------                                                                     
  0   |   --     | Introduction  | ▓▓▓▓▓▓▓▓▓▓ | ready to go                                                    
- 4   |  15 May  | Background    | ▓▓▓▓▓▓░░░░ |~~anycast~~, BGP(~~how it works~~, algorithm selection, communities), ddos(minimal).       
+ 4   |  15 May  | Background    | ▓▓▓▓▓▓▓░░░ |~~anycast~~, BGP(~~how it works~~, algorithm selection, communities), ddos(minimal).       
  0   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                                             
  0   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland                                             
  0   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
