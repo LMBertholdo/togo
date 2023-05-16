@@ -7,7 +7,7 @@
  Cap| Forecast | Title         | Situation  | Status & ToDo                                                                             
  ----| ---------| --------------| ---------- |----------------------                                                                     
  1   |   --     | Introduction  | ▓▓▓▓▓▓▓▓▓▓ | ready to go                                                    
- 2   |  15 May  | Background    | ▓▓▓▓▓▓▓░░░ |~~anycast~~, BGP(~~how it works~~, algorithm selection, communities), ddos(minimal).       
+ 2   |  15 May  | Background    | ▓▓▓▓▓▓▓░░░ | ready to go     
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                                             
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland                                             
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
@@ -25,7 +25,19 @@
  ----| ---------| -------------------| ---------- |----------------------                                                                
  6   |  26 May  | Anyfed paper       | ▓▓▓▓▓▓▓░░░ | review, submission May-1st  
  0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | waiting for review                                                  
-                                                                                                                                         
+                                             
+# Final TODOs
+- all chapters read
+- title
+- cover
+- abstract
+- samenvatting
+- Open data management: check with Roland
+- Ethical considerations: check with Roland
+- Glossary: check with Roland
+- check biblio
+- about the author
+- print test
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
                                                                                                                                          
