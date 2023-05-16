@@ -7,7 +7,7 @@
  Cap| Forecast | Title         | Situation  | Status & ToDo                                                                             
  ----| ---------| --------------| ---------- |----------------------                                                                     
  1   |   --     | Introduction  | ▓▓▓▓▓▓▓▓▓▓ | ready to go                                                    
- 2   |  15 May  | Background    | ▓▓▓▓▓▓▓░░░ | ready to go     
+ 2   |  15 May  | Background    | ▓▓▓▓▓▓▓▓▓▓ | ready to go     
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                                             
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland                                             
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
