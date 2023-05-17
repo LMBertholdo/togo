@@ -29,13 +29,12 @@
 # Final TODOs
 - all chapters read
 - title
-- cover
+- cover --> later
 - abstract
-- samenvatting
-- Open data management: check with Roland
-- Ethical considerations: check with Roland
-- Glossary: check with Roland
-- check biblio
+- samenvatting 
+- Open data management: include in appendix, open access, do it!
+- Ethical considerations: anyfed paper
+- check biblio --- start with
 - about the author
 - print test
                                                                                                                                          
