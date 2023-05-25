@@ -7,13 +7,13 @@
  Cap| Forecast | Title         | Situation  | Status & ToDo                                                                             
  ----| ---------| --------------| ---------- |----------------------                                                                     
  1   |   --     | Introduction  | ▓▓▓▓▓▓▓▓▓▓ |                                                  
- 2   |  15 May  | Background    | ▓▓▓▓▓▓▓▓▓▓ | show roland last paragraph  
+ 2   |  15 May  | Background    | ▓▓▓▓▓▓▓▓▓▓ | show to roland last paragraph  
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                                             
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland -> redo a graph                                            
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
  6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
  7   |  28 May  | BGP Tuner     | ▓▓▓▓▓▓▓▓░░ | intro,concl, ralph                             
- 8   |  24 May  | Anygility     | ▓▓▓▓▓▓▓░░░ | intro,concl, roland                                       
+ 8   |  24 May  | Anygility     | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland                                       
  9   |  22 May  | Federation    | ▓▓▓▓▓░░░░░ | intro,concl,paper submission, roland          
  10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | ready to go                                                  
                                                                                                                                          
