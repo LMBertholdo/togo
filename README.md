@@ -21,20 +21,20 @@
                                                                                                                                                                                                                                                                 
  Days| Forecast | Title              | Situation  | Status & ToDo                                                                        
  ----| ---------| -------------------| ---------- |----------------------                                                                
- 6   |  26 May  | Anyfed paper       | ▓▓▓▓▓▓▓░░░ | review, submission May-1st  
+ 6   |  26 May  | Anyfed paper       | ▓▓▓▓▓▓▓░░░ | review, submission Jun 1st  
  0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | waiting for review                                                  
                                              
 # Final TODOs
-- all chapters read
-- title
-- cover --> later
-- abstract
+- Full reading
+- Print test --> 1st in 15jun
+- Title
+- Cover --> 15 Jun
+- Abstract review
 - samenvatting 
 - Open data management: include in appendix, open access, do it!
 - Ethical considerations: anyfed paper
 - check biblio --- start with
 - about the author
-- print test
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
                                                                                                                                          
