@@ -25,7 +25,7 @@
  0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | waiting for review                                                  
                                              
 # Final TODOs
-- Full reading
+- Full reading --> up to 6jun
 - Print test --> 1st in 15jun
 - Title
 - Cover --> 15 Jun
