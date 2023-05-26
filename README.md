@@ -27,12 +27,13 @@
 # Final TODOs
 - Full reading --> up to 6jun
 - Print test --> 1st in 15jun
+- Ack
 - Title
 - Cover --> 15 Jun
-- Abstract review
+- **Abstract review**
 - samenvatting 
-- Open data management: include in appendix, open access, do it!
-- Ethical considerations: anyfed paper
+- **Open data management: include in appendix, open access, do it!**
+- Ethical considerations: anyfed paper **just in papers**
 - check biblio --- start with
 - about the author
                                                                                                                                          
