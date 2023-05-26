@@ -9,7 +9,7 @@
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                                             
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland -> redo a graph                                            
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
- 6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
+ 6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian  (include TNSM session)                                           
  7   |  28 May  | BGP Tuner     | ▓▓▓▓▓▓▓▓░░ | intro,concl, ralph                             
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland                                       
  9   |  22 May  | Federation    | ▓▓▓▓▓░░░░░ | intro,concl,paper submission, roland          
