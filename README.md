@@ -4,8 +4,8 @@
                                                                                            
  Cap| Forecast | Title         | Situation  | Status & ToDo                                                                             
  ----| ---------| --------------| ---------- |----------------------                                                                     
- 1   |   --     | Introduction  | ▓▓▓▓▓▓▓▓▓▓ |                                                  
- 2   |   --     | Background    | ▓▓▓▓▓▓▓▓▓▓ | show to roland last paragraph  
+ 1   |   --     | Introduction  | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                                 
+ 2   |   --     | Background    | ▓▓▓▓▓▓▓▓▓▓ | :+1:
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                                             
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland -> redo a graph                                            
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
