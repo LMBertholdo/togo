@@ -11,9 +11,9 @@
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
  6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian  (include TNSM session)                                           
  7   |  28 May  | BGP Tuner     | ▓▓▓▓▓▓▓▓░░ | intro,concl, ralph                             
- 8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland                                       
+ 8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | needs my final pass                                       
  9   |  22 May  | Federation    | ▓▓▓▓▓░░░░░ | intro,concl,paper submission, roland          
- 10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | ready to go                                                  
+ 10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | agenda review (after anyfed)                                               
                                                                                                                                          
                                                                                                                                          
                                                                                                                                          
@@ -25,7 +25,7 @@
  0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | waiting for review                                                  
                                              
 # Final TODOs
-- Full reading --> up to 6jun
+- Full reading --> up to 16jun
 - Print test --> 1st in 15jun
 - Ack
 - Title
@@ -34,7 +34,7 @@
 - samenvatting 
 - **Open data management: include in appendix, open access, do it!**
 - Ethical considerations: anyfed paper **just in papers**
-- check biblio --- start with
+- check biblio --- 1st pass ok ** get some tip from meeting **
 - about the author
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
