@@ -6,12 +6,12 @@
  ----| ---------| --------------| ---------- |----------------------                                                                     
  1   |   --     | Introduction  | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                                 
  2   |   --     | Background    | ▓▓▓▓▓▓▓▓▓▓ | :+1:
- 3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                                             
- 4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | waiting for review, roland -> redo a graph                                            
+ 3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | address comments                                              
+ 4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | address comments                                            
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
  6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian  (include TNSM session)                                           
- 7   |  28 May  | BGP Tuner     | ▓▓▓▓▓▓▓▓░░ | intro,concl, ralph                             
- 8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | needs my final pass                                       
+ 7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                            
+ 8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | address comments                                       
  9   |  22 May  | Federation    | ▓▓▓▓▓░░░░░ | intro,concl,paper submission, roland          
  10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | agenda review (after anyfed)                                               
                                                                                                                                          
