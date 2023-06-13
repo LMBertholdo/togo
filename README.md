@@ -42,7 +42,7 @@
  Days | Forecast | Title              | Situation  | Status & ToDo                                                                       
  -----| ---------| -------------------| ---------- |----------------------                                                               
    7  |  ---     | Dry Run Defense    |            | Colloquium Dry-Run-Defense presentation (30min)-Check manual
-  30  |  9-Jun   | Final Version      |            | background, anyfed, anygility, tuner, full review, title, cover design              
+  30  | 30-Jun   | Final Version      |            | background, anyfed, anygility, tuner, full review, title, cover design              
   15  | 28-Jul   | Reviews-in         |            | Reviews                                                                             
   15  | 18-Aug   | Thesis-to-print    |            | Thesis to print, read PhD regulations for PhD propositions.                         
   10  | 29-Sep   | Defense            |            | Prepare presentation
