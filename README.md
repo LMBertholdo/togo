@@ -33,7 +33,7 @@
 - **Abstract review**
 - samenvatting 
 - **Open data management: include in appendix, open access, do it!**
-- Ethical considerations: anyfed paper **just in papers** :+1:
+- Ethical considerations: **just in papers** :+1:
 - check biblio --- :+1:
 - about the author
                                                                                                                                          
