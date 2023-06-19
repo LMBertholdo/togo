@@ -8,9 +8,9 @@
  2   |   --     | Background    | ▓▓▓▓▓▓▓▓▓▓ | :+1:
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓░ | address comments                                              
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓░ | address comments                                            
- 5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian                                             
- 6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | waiting for review, cristian  (include TNSM session)                                           
- 7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓░ | waiting for review, ralph                            
+ 5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | address comments                                             
+ 6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | address comments    (include TNSM session)                                           
+ 7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓░ | address comments                          
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | address comments                                       
  9   |  22 May  | Federation    | ▓▓▓▓▓░░░░░ | intro,concl,paper submission, roland          
  10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | agenda review (after anyfed)                                               
