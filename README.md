@@ -12,7 +12,7 @@
  6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | address comments    (include TNSM session)                                           
  7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓░ | address comments                          
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | address comments                                       
- 9   |  22 May  | Federation    | ▓▓▓▓▓░░░░░ | intro,concl,paper submission, roland          
+ 9   |   --     | Federation    | ▓▓▓▓▓░░░░░ | intro,concl          
  10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | agenda review (after anyfed)                                               
                                                                                                                                          
                                                                                                                                          
