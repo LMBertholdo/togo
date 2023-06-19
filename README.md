@@ -34,7 +34,7 @@
 - samenvatting 
 - **Open data management: include in appendix, open access, do it!**
 - Ethical considerations: anyfed paper **just in papers**
-- check biblio --- 1st pass ok ** get some tip from meeting **
+- check biblio --- :+1:
 - about the author
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
