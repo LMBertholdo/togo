@@ -21,7 +21,7 @@
                                                                                                                                                                                                                                                                 
  Days| Forecast | Title              | Situation  | Status & ToDo                                                                        
  ----| ---------| -------------------| ---------- |----------------------                                                                
- 6   |  26 May  | Anyfed paper       | ▓▓▓▓▓▓▓▓▓▓ | submission
+ 6   |   --     | Anyfed paper       | ▓▓▓▓▓▓▓▓▓▓ | submission
  0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | submitted :+1:                                            
                                              
 # Final TODOs
