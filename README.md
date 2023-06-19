@@ -22,7 +22,7 @@
  Days| Forecast | Title              | Situation  | Status & ToDo                                                                        
  ----| ---------| -------------------| ---------- |----------------------                                                                
  6   |  26 May  | Anyfed paper       | ▓▓▓▓▓▓▓▓▓▓ | submission
- 0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | waiting for review :+1:                                            
+ 0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | submitted :+1:                                            
                                              
 # Final TODOs
 - Full reading --> up to 16jun
