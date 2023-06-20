@@ -31,7 +31,8 @@
 - Title
 - Cover --> 15 Jun
 - **Abstract review**
-- samenvatting 
+- samenvatting
+- chapter figure colorized by chapter
 - **Open data management: include in appendix, open access, do it!**
 - Ethical considerations: **just in papers** :+1:
 - check biblio --- :+1:
