@@ -41,6 +41,7 @@
 - **Contact the DSI office to obtain a thesis series number**
 - **Contact the library to get an ISBN and DOI**
 - ISBN xxx.xxxxxxx
+- I miss a page after the official "DISSERTATION" page that says "This thesis was approved on June 23rd, 2023
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
                                                                                                                                          
