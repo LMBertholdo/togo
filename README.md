@@ -28,10 +28,10 @@
 - Full reading --> up to 16jun
 - Print test --> 1st in 15jun
 - Ack
-- Title
+- Title 
 - Cover --> 15 Jun
-- **Abstract review**
-- samenvatting
+- **Abstract ** :+1:  
+- samenvatting  :+1:  
 - chapter figure colorized by chapter
 - **Open data management: include in appendix, open access, do it!**
 - Ethical considerations: **just in papers** :+1:
