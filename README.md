@@ -37,6 +37,9 @@
 - Ethical considerations: **just in papers** :+1:
 - check biblio --- :+1:
 - about the author
+- **The CTIT logo must be replaced by a DSI logo**
+- **Contact the DSI office to obtain a thesis series number**
+- **Contact the library to get an ISBN and DOI**
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
                                                                                                                                          
