@@ -8,7 +8,7 @@
  2   |   --     | Background    | ▓▓▓▓▓▓▓▓▓▓ | :+1:
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                             
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                              
- 5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓░ | :+1:                                           
+ 5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                           
  6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | address comments    (include TNSM session)                                           
  7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓░ | address comments                          
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓░ | address comments                                       
