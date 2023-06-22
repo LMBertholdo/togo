@@ -28,7 +28,7 @@
 - Full reading --> up to 16jun
 - Print test --> 1st in 15jun
 - Ack
-- Title 
+- Title :+1:
 - Cover --> 15 Jun
 - **Abstract ** :+1:  
 - samenvatting  :+1:  
