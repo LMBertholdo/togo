@@ -29,7 +29,8 @@
 - ** Full reading **
 - ** page layout **
 - **Open data management: include in appendix, open access, do it!**
-- **The CTIT logo must be replaced by a DSI logo**
+- **The CTIT logo must be replaced by a DSI logo**  
+- **The CTIT logo must be replaced by a DSI logo**  :+1:
 
 # DONE
 - check biblio --- :+1:
