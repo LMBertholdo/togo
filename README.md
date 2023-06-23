@@ -9,7 +9,7 @@
  3   |   --     | Tangled       | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                             
  4   |   --     | Manycast      | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                              
  5   |   --     | IXP Coverage  | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                           
- 6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | cristian final pass on Sunday (6.1, 6.2)                                           
+ 6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | :+1:                                          
  7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                          
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                       
  9   |   --     | Federation    | ▓▓▓▓▓░░░░░ | chapter intro,intro,concl, insert anyfed         
