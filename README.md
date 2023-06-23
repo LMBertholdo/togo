@@ -12,7 +12,7 @@
  6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | address comments    (include TNSM session)                                           
  7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                          
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                       
- 9   |   --     | Federation    | ▓▓▓▓▓░░░░░ | intro,concl          
+ 9   |   --     | Federation    | ▓▓▓▓▓░░░░░ | chapter intro,intro,concl, insert anyfed         
  10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | agenda review (after anyfed)                                               
                                                                                                                                          
                                                                                                                                          
