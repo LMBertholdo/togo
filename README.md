@@ -23,25 +23,31 @@
  ----| ---------| -------------------| ---------- |----------------------                                                                
  6   |   --     | Anyfed paper       | ▓▓▓▓▓▓▓▓▓▓ | submission
  0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | submitted :+1:                                            
-                                             
-# Final TODOs
-- Full reading --> up to 16jun
-- Print test --> 1st in 15jun
-- Ack
-- Title :+1:
-- Cover --> 15 Jun
+
+# Before submission
+- chapter figure colorized by chapter
+- ** Full reading **
+- ** page layout **
+- **Open data management: include in appendix, open access, do it!**
+- **The CTIT logo must be replaced by a DSI logo**
+
+# DONE
+- check biblio --- :+1:
 - **Abstract ** :+1:  
 - samenvatting  :+1:  
-- chapter figure colorized by chapter
-- **Open data management: include in appendix, open access, do it!**
+- Title :+1:
 - Ethical considerations: **just in papers** :+1:
-- check biblio --- :+1:
+- I miss a page after the official "DISSERTATION" page that says "This thesis was approved on June 23rd, 2023  :+1:
+
+                                             
+# Final TODOs
+
+- Ack
+- Cover --> 15 Jun
 - about the author
-- **The CTIT logo must be replaced by a DSI logo**
 - **Contact the DSI office to obtain a thesis series number**
 - **Contact the library to get an ISBN and DOI**
 - ISBN xxx.xxxxxxx
-- I miss a page after the official "DISSERTATION" page that says "This thesis was approved on June 23rd, 2023  :+1:
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
                                                                                                                                          
