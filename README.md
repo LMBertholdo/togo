@@ -28,7 +28,7 @@
 - chapter figure colorized by chapter :+1:
 - ** Full reading **
 - ** page layout **
-- **Open data management: include in appendix, open access, do it!**
+- **Open data management: include in appendix, open access, do it!** :+1:
 - **The CTIT logo must be replaced by a DSI logo**  :+1:
 
 # DONE
