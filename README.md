@@ -13,7 +13,7 @@
  7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                          
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                       
  9   |   --     | Federation    | ▓▓▓▓▓░░░░░ | chapter intro,intro,concl, insert anyfed         
- 10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | agenda review (after anyfed)                                               
+ 10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                             
                                                                                                                                          
                                                                                                                                          
                                                                                                                                          
