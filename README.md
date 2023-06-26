@@ -26,8 +26,8 @@
 
 # Before submission
 - chapter figure colorized by chapter :+1:
-- ** Full reading **
-- ** page layout **
+- ** Full reading ** :+1:
+- ** page layout ** :+1:
 - **Open data management: include in appendix, open access, do it!** :+1:
 - **The CTIT logo must be replaced by a DSI logo**  :+1:
 
@@ -44,9 +44,9 @@
 
 - Ack
 - Cover --> 15 Jun
-- about the author
-- **Contact the DSI office to obtain a thesis series number**
-- **Contact the library to get an ISBN and DOI**
+- about the author :+1:
+- **Contact the DSI office to obtain a thesis series number** waiting asnwer
+- **Contact the library to get an ISBN and DOI** waiting asnwer
 - ISBN xxx.xxxxxxx
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
