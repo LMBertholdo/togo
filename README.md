@@ -12,7 +12,7 @@
  6   |   --     | IXP Asymmetry | ▓▓▓▓▓▓▓▓▓░ | :+1:                                          
  7   |   --     | BGP Tuner     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                          
  8   |   --     | Anygility     | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                       
- 9   |   --     | Federation    | ▓▓▓▓▓░░░░░ | chapter intro,intro,concl, insert anyfed         
+ 9   |   --     | Federation    | ▓▓▓▓▓▓▓▓▓▓ | :+1: chapter intro,intro,concl       
  10  |   --     | Conclusion    | ▓▓▓▓▓▓▓▓▓▓ | :+1:                                             
                                                                                                                                          
                                                                                                                                          
