@@ -45,9 +45,8 @@
 - Ack
 - Cover --> 15 Jun
 - about the author :+1:
-- **Contact the DSI office to obtain a thesis series number** waiting asnwer
-- **Contact the library to get an ISBN and DOI** waiting asnwer
-- ISBN xxx.xxxxxxx
+- **Contact the DSI office to obtain a thesis series number** :+1:
+- **Contact the library to get an ISBN and DOI** :+1:
                                                                                                                                          
  # Calendar (12 weeks before defense date)                                                                                               
                                                                                                                                          
