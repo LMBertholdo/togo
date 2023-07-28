@@ -21,7 +21,7 @@
                                                                                                                                                                                                                                                                 
  Days| Forecast | Title              | Situation  | Status & ToDo                                                                        
  ----| ---------| -------------------| ---------- |----------------------                                                                
- 6   |   --     | Anyfed paper       | ▓▓▓▓▓▓▓▓▓▓ | submission
+ 6   |   --     | Anyfed paper       | ▓▓▓▓▓▓▓▓▓▓ | submitted :+1:
  0   |   --     | TNSM asy           | ▓▓▓▓▓▓▓▓▓▓ | submitted :+1:                                            
 
 # Before submission
